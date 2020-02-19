@@ -79,7 +79,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   modifier: 1.5
-  lastFor: 2
+  lastFor: 3
 --- !u!212 &212439379373644716
 SpriteRenderer:
   m_ObjectHideFlags: 1

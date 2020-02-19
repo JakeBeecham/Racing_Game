@@ -19,7 +19,7 @@ public class PlayerVisual : MonoBehaviour
 
             //set the sprite of the player to be sprite stored in the game manager
             //remember this is the sprite we picked in the carselect scene
-            //renderer.sprite = manager.selectedCar;
+            renderer.sprite = manager.selectedCar;
         }
 	}
 }
